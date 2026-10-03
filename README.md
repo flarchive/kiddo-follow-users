@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of kiddo/follow-users.** Not for installation: use [Packagist](https://packagist.org/packages/kiddo/follow-users) or the [upstream repository](https://github.com/kiddoVin/follow-users).
 
-**0** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/kiddo-follow-users/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.7.0`
+**1** versions archived · Latest: [`0.0.1`](https://github.com/flarchive/kiddo-follow-users/tree/archive/v0.0.1) · License: `MIT` · Flarum: `^1.7.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.0.1` | 2023-04-18 | `^1.7.0` | [Browse](https://github.com/flarchive/kiddo-follow-users/tree/archive/v0.0.1) |
 
 Catalog entry: [packages/kiddo-follow-users.json](https://github.com/flarchive/archive-index/blob/main/packages/kiddo-follow-users.json)
 
